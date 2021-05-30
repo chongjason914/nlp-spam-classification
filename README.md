@@ -15,10 +15,10 @@ The goal for this repository is to summarise what I have have learned as well as
 The spam filter is a binary classifier that is capable of reading a random string of text and subsequently classify the text as one of two outcomes: 
 either ham or spam. 
 
-## Data
+## Data description 
 The spam filter was built using the SMS spam collection [dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset) which contains a set of 5,572 SMS messages in English.
 
-## Notebook Content 
+## Notebook content 
 **0. Import libraries**
 
 **1. Import and read data**
@@ -46,7 +46,7 @@ The spam filter was built using the SMS spam collection [dataset](https://www.ka
 ## Medium article 
 Link to the full project write-up on Towards Data Science [here](https://towardsdatascience.com/a-beginners-introduction-to-nlp-building-a-spam-classifier-cf0973c7f42c).
 
-## Project Reference
+## Project reference
 [NLP with Python for Machine Learning Essential Training](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training) by [Derek Jedamski](https://www.linkedin.com/in/derek-jedamski-8a887045/?trk=lil_course)
 
 ## Follow me
