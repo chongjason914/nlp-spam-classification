@@ -46,7 +46,7 @@ The spam filter was built using the SMS spam collection [dataset](https://www.ka
 ## Medium article 
 Link to the full project write-up on Towards Data Science [here](https://towardsdatascience.com/a-beginners-introduction-to-nlp-building-a-spam-classifier-cf0973c7f42c).
 
-## Project reference
+## Project inspiration & reference
 [NLP with Python for Machine Learning Essential Training](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training) by [Derek Jedamski](https://www.linkedin.com/in/derek-jedamski-8a887045/?trk=lil_course)
 
 ## Follow me
